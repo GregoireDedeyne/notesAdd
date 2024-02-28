@@ -1,0 +1,23 @@
+.footer {
+  bottom: 0;
+  left: 0;
+  width: 80%;
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-countainer {
+  position: fixed;
+  bottom: 0;
+  left: 12rem;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+.link {
+  margin-left: 1rem;
+}
